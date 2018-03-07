@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Suriyun/Hoshi/Hoshi.unity
+  isLoaded: 1
+  isActive: 1
