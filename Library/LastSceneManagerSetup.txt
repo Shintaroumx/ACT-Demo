@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Suriyun/Hoshi/Hoshi.unity
+- path: Assets/Shintarou/SapphiArtChan.unity
   isLoaded: 1
   isActive: 1

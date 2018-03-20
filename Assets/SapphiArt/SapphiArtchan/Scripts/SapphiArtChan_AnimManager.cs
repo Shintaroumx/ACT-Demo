@@ -78,7 +78,7 @@ public class SapphiArtChan_AnimManager : MonoBehaviour
 	void Start ()
 	{
 		_SapphiArtChanAnimator = this.gameObject.GetComponent<Animator> ();
-		_AnimationManagerUI = GameObject.Find ("AnimationManagerUI").GetComponent<AnimationManagerUI> ();
+		//_AnimationManagerUI = GameObject.Find ("AnimationManagerUI").GetComponent<AnimationManagerUI> ();
 
 
 		Transform[] SapphiArtchanChildren = GetComponentsInChildren<Transform> ();

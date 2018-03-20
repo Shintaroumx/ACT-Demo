@@ -84,7 +84,7 @@
 			//idle
 			GameObject.Find ("AnimationManagerUI").GetComponent<AnimationManagerUI> ().SetAnimation_Idle ();
 
-			// If we have some input
+			//move
 			if (inputVector.sqrMagnitude > 0.001f) {
 				movementVector = _mainCameraTransform.TransformDirection (inputVector);
 				movementVector.y = 0f;
